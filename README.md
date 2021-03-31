@@ -18,3 +18,8 @@ The definitions of the calculations and the example calculations being tested ca
 ## Development
 
 Support for Gherkin syntax rspec tests is provided [turnip](https://github.com/jnicklas/turnip). 
+
+## Architecture Decision Records
+
+* There is a cross-project ADR at <https://github.com/DFE-Digital/cpd-adr>
+* This project's ADR is in [doc/adr/](doc/adr/)
